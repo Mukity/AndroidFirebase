@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">HBMIS</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_empno">ENTER EMPLOYEE NUMBER</string>
+    <string name="enter_password">ENTER PASSWORD</string>
+    <string name="idnumber">ENTER ID NUMBER</string>
+    <string name="submit">SUBMIT</string>
+    <string name="not_registered_click_here">Not registered? Click here!</string>
+    <string name="login">LOGIN</string>
+    <string name="last_name">ENTER LAST NAME</string>
+    <string name="first_name">ENTER FIRST NAME</string>
+    <string name="enter_e_mail">ENTER E-MAIL</string>
+    <string name="employees">EMPLOYEES</string>
+    <string name="clear">CLEAR</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+</resources>
